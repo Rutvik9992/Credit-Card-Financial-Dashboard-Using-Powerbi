@@ -7,4 +7,6 @@
 3.Shared actionable insights with stakeholders based on dashboard 
   findings to support decision-making processes.  
 
+![Postgressql_page-0002](https://github.com/user-attachments/assets/62d6fd6d-65c4-4677-9087-357cf256c941)
+
 ![Postgressql_page-0003](https://github.com/user-attachments/assets/d59d83d9-7639-464b-ad50-9901fa40c59b)
